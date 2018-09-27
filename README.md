@@ -32,7 +32,7 @@
 >>如果youtube出现黑屏 请点进去所使用的规则列表 搜索youtube 删除 "ads.youtube.com"这条规则
 
 ##                       谷歌云问题
->出些内核卸载失败 请确认你使用的系统是否是debian8 如果是debian9 请从[https://github.com/allenking1028/ss/issues/1](https://github.com/allenking1028/ss/issues/1 )我的这个代码页 第五步开始 （记得要先输入sudo -i  使前面是root@xxxx ）
+>出些**内核卸载失败** 请确认你使用的系统是否是**debian8** 如果是**debian9** 请从[https://github.com/allenking1028/ss/issues/1](https://github.com/allenking1028/ss/issues/1 )我的这个代码页 第五步开始 （记得要先输入**sudo -i  使前面是root@xxxx** ）
 或者看我的[新视频](https://www.youtube.com/watch?v=1jMgiqGpX-I)
 >>不能播放netflix  vimeo 是正常的 因为netflix的原则是只允许家庭宽带使用 所以他们应该有黑名单
 

@@ -4,7 +4,7 @@
 
 ###                   telegram不能私聊问题
 >是因为+86 注册的用户不能私聊非+86手机注册的用户（GOOGLE VOICE绑TG可解决）
-需要GV号 然后绑定TG的可联系 [@CodyDoby](((https://t.me/CodyDoby [@voice_google]((https://t.me/voice_google)  也可以淘宝搜索貌似有卖
+需要GV号 然后绑定TG的可联系 [@CodyDoby](https://t.me/CodyDoby)  [@voice_google]((https://t.me/voice_google)  也可以淘宝搜索貌似有卖
 
 ###                    telegram代理
 >TG代理：https://bigdongdongclub.github.io/TelegramProxy/

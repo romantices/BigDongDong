@@ -1,11 +1,11 @@
 ## telegram相关
 ###                     Telegram汉化方法 
-[https://t.me/zh_CN](https://t.me/zh_CN) (只有蓝色图标版本可以汉化）
+>[https://t.me/zh_CN](https://t.me/zh_CN) (只有蓝色图标版本可以汉化）
 ###                   telegram不能私聊问题
-是因为+86 注册的用户不能私聊非+86手机注册的用户（GOOGLE VOICE绑TG可解决）
+>是因为+86 注册的用户不能私聊非+86手机注册的用户（GOOGLE VOICE绑TG可解决）
 需要GV号 然后绑定TG的可联系 @CodyDoby     @voice_google  也可以淘宝搜索貌似有卖
 ###                    telegram代理
-TG代理： [https://bigdongdongclub.github.io/TelegramProxy/](https://bigdongdongclub.github.io/TelegramProxy/)
+>TG代理： [https://bigdongdongclub.github.io/TelegramProxy/](https://bigdongdongclub.github.io/TelegramProxy/)
 点击上面链接 并且启用  可以让TG在不用挂翻墙工具单独使用。
 ##                      电视盒子问题
 >各种盒子性能介绍：[https://docs.google.com/spreadsheets/d/1EBG4tRTmgaf-zXUKg1YcoTxoERwROcYD-DU2sHjuC6o/edit#gid=0](https://docs.google.com/spreadsheets/d/1EBG4tRTmgaf-zXUKg1YcoTxoERwROcYD-DU2sHjuC6o/edit#gid=0)

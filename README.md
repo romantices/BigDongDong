@@ -11,7 +11,7 @@
 ###                    telegram代理
 >TG代理：[https://bigdongdongclub.github.io/TelegramProxy/](https://bigdongdongclub.github.io/TelegramProxy/)
 
-点击上面链接 并且启用  可以让TG在不用挂翻墙工具单独使用。
+点击上面链接内有TG代理  可以让TG在不用挂翻墙工具单独使用。
 
 ##                      电视盒子相关
 >各种盒子性能介绍：[https://docs.google.com/spreadsheets/d/1EBG4tRTmgaf-zXUKg1YcoTxoERwROcYD-DU2sHjuC6o/edit#gid=0](https://docs.google.com/spreadsheets/d/1EBG4tRTmgaf-zXUKg1YcoTxoERwROcYD-DU2sHjuC6o/edit#gid=0)

@@ -10,9 +10,9 @@ TG代理： [https://bigdongdongclub.github.io/TelegramProxy/](https://bigdongdo
 ##                      电视盒子问题
 >各种盒子性能介绍：[https://docs.google.com/spreadsheets/d/1EBG4tRTmgaf-zXUKg1YcoTxoERwROcYD-DU2sHjuC6o/edit#gid=0](https://docs.google.com/spreadsheets/d/1EBG4tRTmgaf-zXUKg1YcoTxoERwROcYD-DU2sHjuC6o/edit#gid=0)
 
->>SHIELDTV  是androidTV系统youtube 可4k NETFLIX 可4K 可chromecast airplay 投屏
->>  appletv4k  是TVOS系统  youtube 不可4k NETFLIX 可4K  可airplay投屏
-#### MIBOX （国际版小米盒子）是androidTV系统 youtube 可4k NETFLIX 可4K可chromecast投屏 可airplay投屏
+>SHIELDTV  是androidTV系统youtube 可4k NETFLIX 可4K 可chromecast airplay 投屏
+>appletv4k  是TVOS系统  youtube 不可4k NETFLIX 可4K  可airplay投屏
+(1.)MIBOX （国际版小米盒子）是androidTV系统 youtube 可4k NETFLIX 可4K可chromecast投屏 可airplay投屏
 #### M8SPROL  是androidTV系统 youtube 可4k NETFLIX 不能4K 不可chromecast投屏（貌似）可airplay投屏
 #### H96PRO+  是android定制系统 可刷androidTV系统 youtube 可4k netflix不能看 不可chromecast投屏 可airplay投屏
 #### 小米盒子（任何国内版本刷成androidTV系统）youtube 不可4k NETFLIX 不能看 不可chromecast投屏 可airplay投屏

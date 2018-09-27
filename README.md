@@ -1,4 +1,4 @@
-# 新人必看 这里可能有你可能需要的东西
+# 新人必看 这里可能有你需要的东西
 ## telegram相关
 ###                     Telegram汉化方法 
 >[https://t.me/zh_CN](https://t.me/zh_CN) (只有蓝色图标版本可以汉化）

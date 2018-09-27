@@ -34,5 +34,5 @@ TG代理： [https://bigdongdongclub.github.io/TelegramProxy/](https://bigdongdo
 [离线包下载链接](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm)
 ## 谷歌云相关
 关于谷歌云继续 撸300刀 的那期视频我设置里了未公开，因为争议蛮大，很多人觉得这样大肆宣传不妥我也觉得如此，不过这和怕谷歌发现或者youtube封了完全没关系，仅仅是我自己下架。但知道视频地址的依旧还可以看
- [视频地址](https://www.youtube.com/watch?v=JZNSj0loMUk）
+[](https://www.youtube.com/watch?v=JZNSj0loMUk)
 

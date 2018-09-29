@@ -5,7 +5,7 @@
 
 > * Telegram：iOS、Android、Windows Desktop 客户端能汉化，以及Telegram X Android 客户端也支持汉化，详情： [@zh_CN](https://t.me/zh_CN) 、 [@Tele_zh_CN](https://t.me/Tele_zh_CN)
 
-> **以上可汉化版本 在更新到最新的5.0.8以后暂时全失效**
+> **以上手机端可汉化版本 在更新到最新的5.0.8以后暂时全失效**
 
 > * 电脑端
 > * Telegram：Mac 上有两个官方客户端：Telegram、Telegram Desktop。**Telegram 不能汉化**；Telegram Desktop 能汉化，和Windows 客户端一致

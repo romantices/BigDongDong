@@ -1,12 +1,14 @@
 # **新人必看 这里可能有你需要的东西**
 ## telegram相关
 ###                     Telegram汉化方法 
+> * 手机端 
+
 > * Telegram：iOS、Android、Windows Desktop 客户端能汉化，以及Telegram X Android 客户端也支持汉化，详情： [@zh_CN](https://t.me/zh_CN) 、 [@Tele_zh_CN](https://t.me/Tele_zh_CN)
 
-> * Telegram：Mac 上有两个官方客户端：Telegram、Telegram Desktop。**Telegram 不能汉化**；Telegram Desktop 能汉化，和Windows 客户端一致
+> **以上可汉化版本 在更新到最新的5.0.8以后暂时全失效**
 
-> * iOS、Android 客户端多了一个Telegram X，iOS 上的是官网出的客户端，Android 上的是从第三方开发者那收来的，现在也是官方客户端；
-**Telegram X iOS 不能汉化**，因为Telegram X iOS 没有开放自定义语言接口。
+> * 电脑端
+> * Telegram：Mac 上有两个官方客户端：Telegram、Telegram Desktop。**Telegram 不能汉化**；Telegram Desktop 能汉化，和Windows 客户端一致
 
 > * iOS 上Telegram X 和Telegram 最大的不同是用不同的开发语言写的：Telegram X 用的Swift，Telegram 用的Objective-C 写的；
 Android 上Telegram X 和Telegram 最大的不同是不同开发者做的两个产品。

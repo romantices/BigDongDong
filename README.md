@@ -54,3 +54,5 @@ Android 上Telegram X 和Telegram 最大的不同是不同开发者做的两个�
 
 ##             梅林 科学上网插件 离线安装包
 >[离线包下载链接](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm)
+## 拍住赏问题
+![拍住赏](https://user-images.githubusercontent.com/43647204/46255851-1a1d3500-c4d5-11e8-8b82-546f4f368cd9.jpeg)

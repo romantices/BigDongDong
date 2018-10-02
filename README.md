@@ -70,3 +70,16 @@ Android 上Telegram X 和Telegram 最大的不同是不同开发者做的两个�
 
 ## 拍住赏问题
 ![拍住赏](https://user-images.githubusercontent.com/43647204/46255851-1a1d3500-c4d5-11e8-8b82-546f4f368cd9.jpeg)
+
+## 救急节点
+
+> 只限制15位用户同时使用 能不能连上看命
+
+>ssr
+
+**ssr://MzUuMTk0LjE0NS4xNzY6MjM0NTpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WW1sblpHOXVaMlJ2Ym1jeU16UTE**
+
+>ss
+
+**ss://YWVzLTI1Ni1jZmI6YmlnZG9uZ2RvbmcyMzQ1QDM1LjE5NC4xNDUuMTc2OjIzNDU**
+

@@ -39,6 +39,9 @@ Android 上Telegram X 和Telegram 最大的不同是不同开发者做的两个�
 
 ##          shadowrockt 和quantumult 规则
 >[https://github.com/h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules)
+
+>[https://github.com/lhie1/Rules](https://github.com/lhie1/Rules)
+
 以上有所有规则网页  自行使用
 >>如果youtube出现黑屏 请点进去所使用的规则列表 搜索youtube 删除 "ads.youtube.com"这条规则
 

@@ -73,6 +73,23 @@ Android 上Telegram X 和Telegram 最大的不同是不同开发者做的两个�
 #             梅林 科学上网插件 离线安装包
 >[离线包下载链接](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm)
 
+# 科学上网 客户端下载
+
+> PC [https://github.com/shadowsocksrr/shadowsocksr-csharp/releases](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)
+
+下载最上面的版本 zip压缩包
+
+> MAC [https://github.com/qinyuhang/ShadowsocksX-NG-R/releases](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)
+
+下载最上面的版本dmg安装包
+
+>Android [https://github.com/shadowsocksrr/shadowsocksr-android/releases](https://github.com/shadowsocksrr/shadowsocksr-android/releases)
+
+下载最上面的版本 APK安装包（一般Android手机浏览器会自动下安装）
+
+更多版本和说明 请查看著名机场rixcloud的客户端下载页 [https://rixcloud.me/integrations/](https://rixcloud.me/integrations/)
+
+
 # 拍住赏问题
 ![拍住赏](https://user-images.githubusercontent.com/43647204/46255851-1a1d3500-c4d5-11e8-8b82-546f4f368cd9.jpeg)
 

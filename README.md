@@ -63,7 +63,7 @@ Android 上Telegram X 和Telegram 最大的不同是不同开发者做的两个�
 
 >**此方法目前已经貌似已经失效删除结算管理员时会提示无法删除账户**
 
-![无法删除](https://user-images.githubusercontent.com/43647204/46453693-57cfd580-c7d5-11e8-8a1f-a4687635dba8.png—)
+![无法删除](https://user-images.githubusercontent.com/43647204/46453693-57cfd580-c7d5-11e8-8a1f-a4687635dba8.png)
 
 [视频链接](https://www.youtube.com/watch?v=JZNSj0loMUk)
 

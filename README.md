@@ -79,9 +79,8 @@ Android 上Telegram X 和Telegram 最大的不同是不同开发者做的两个�
 # netflix小贴士
 
 因货币汇率问题 土耳其注册的netflix账户使用土耳其币结算 最好的套餐（4个荧幕+ultra4k)每个月39.99土耳其里拉 折合人民币 44.44 （2018年10月4日汇率）
-
 > 特提供土耳其节点供大家食用（别人分享的有效期未知）
 
->> 请开启全局模式 然后去 [netflix.com](https://netflix.com) 注册新账户遍是土耳其货币支付了 （可用外币信用卡和拍住赏付款
+>> 请开启全局模式 然后去 [netflix.com](https://netflix.com) 注册新账户便是土耳其货币支付了 （可用外币信用卡和拍住赏付款）
 
 `ssr://MTg1LjIxOS4xMzQuMjI6ODA6YXV0aF9jaGFpbl9hOm5vbmU6cGxhaW46Y1hkbGNtZG9hblY1WVd0a1lYTmtaM1Y1WGpjeS8_cmVtYXJrcz01WnlmNklDejVZVzI`

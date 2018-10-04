@@ -84,4 +84,4 @@ Android 上Telegram X 和Telegram 最大的不同是不同开发者做的两个�
 
 >> 请开启全剧模式 然后去netflix.com注册新账户遍是土耳其货币支付了 （可用外币信用卡和拍住赏付款
 
-ssr://MTg1LjIxOS4xMzQuMjI6ODA6YXV0aF9jaGFpbl9hOm5vbmU6cGxhaW46Y1hkbGNtZG9hblY1WVd0a1lYTmtaM1Y1WGpjeS8_cmVtYXJrcz01WnlmNklDejVZVzI
+`ssr://MTg1LjIxOS4xMzQuMjI6ODA6YXV0aF9jaGFpbl9hOm5vbmU6cGxhaW46Y1hkbGNtZG9hblY1WVd0a1lYTmtaM1Y1WGpjeS8_cmVtYXJrcz01WnlmNklDejVZVzI`

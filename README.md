@@ -101,3 +101,9 @@ Android 上Telegram X 和Telegram 最大的不同是不同开发者做的两个�
 >> 请开启全局模式 然后去 [netflix.com](https://netflix.com) 注册新账户便是土耳其货币支付了 （可用外币信用卡和拍住赏付款）
 
 `ssr://MTg1LjIxOS4xMzQuMjI6ODA6YXV0aF9jaGFpbl9hOm5vbmU6cGxhaW46Y1hkbGNtZG9hblY1WVd0a1lYTmtaM1Y1WGpjeS8_cmVtYXJrcz01WnlmNklDejVZVzI`
+
+# 查询IP是否被BAN
+
+> [https://ipcheck.need.sh/](https://ipcheck.need.sh/)
+
+>> 国内TCP 红色X（或者国外也是）说明被BAN 如果都是X 请检查服务器端口是否开放以及服务器是否正常

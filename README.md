@@ -61,10 +61,6 @@ Android 上Telegram X 和Telegram 最大的不同是不同开发者做的两个�
 
 >关于谷歌云继续 撸300刀 的那期视频我设置里了未公开，因为争议蛮大，很多人觉得这样大肆宣传不妥我也觉得如此，不过这和怕谷歌发现或者youtube封了完全没关系，仅仅是我自己下架。但知道视频地址的依旧还可以看
 
->**此方法目前已经貌似已经失效删除结算管理员时会提示无法删除账户**
-
-![无法删除](https://user-images.githubusercontent.com/43647204/46453693-57cfd580-c7d5-11e8-8a1f-a4687635dba8.png)
-
 [视频链接](https://www.youtube.com/watch?v=JZNSj0loMUk)
 
 >>谷歌云不能播放netflix  vimeo 是正常的 因为netflix的原则是只允许家庭宽带使用 所以他们应该有黑名单

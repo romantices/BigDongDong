@@ -35,7 +35,7 @@ Android 上Telegram X 和Telegram 最大的不同是不同开发者做的两个�
 * 小米盒子（任何国内版本刷成androidTV系统）youtube 不可4k NETFLIX 不能看 不可chromecast投屏 可airplay投屏
 
 >如果你是androidTV 系统 但发现安装的"腾讯云视听"等app 无法在主页显示和添加到主页 请再googleplay里面下载SideloadLauncher 这个软件 此软件是软件抽屉 可以置于主页点进去将显示所有APP程序
->>有需求MIBOX的朋友 可以TG找他 [@louis0526](https://t.me/louis0526) 群友低价出售
+
 
 ##          shadowrockt 和quantumult 规则
 >[https://github.com/h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules)

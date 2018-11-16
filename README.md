@@ -10,8 +10,11 @@
 
 
 > * iphone telegram版本在 5.0.16 的可以用一下链接汉化 
+
 简体中文：[tg://setlanguage?lang=zh-hans-raw](tg://setlanguage?lang=zh-hans-raw)
+
 繁体中文：[tg://setlanguage?lang=zh-hant-raw](tg://setlanguage?lang=zh-hant-raw)
+
 直接点击链接，选“Change” 即可
 
 >>* iOS 上Telegram X 和Telegram 最大的不同是用不同的开发语言写的：Telegram X 用的Swift，Telegram 用的Objective-C 写的；

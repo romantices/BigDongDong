@@ -9,7 +9,7 @@
 > * Telegram：Mac 上有两个官方客户端：Telegram、Telegram Desktop。**Telegram 不能汉化**；Telegram Desktop 能汉化，和Windows 客户端一致
 
 
-> *苹果手机telegram版本在 5.0.16 的可以用一下链接汉化 
+> * iphone telegram版本在 5.0.16 的可以用一下链接汉化 
 简体中文：[tg://setlanguage?lang=zh-hans-raw](tg://setlanguage?lang=zh-hans-raw)
 繁体中文：[tg://setlanguage?lang=zh-hant-raw](tg://setlanguage?lang=zh-hant-raw)
 直接点击链接，选“Change” 即可

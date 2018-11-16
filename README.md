@@ -3,14 +3,18 @@
 ###                     Telegram汉化方法 
 > * 手机端 
 
-> * Telegram（蓝色图标）：iOS、Android、Windows Desktop 客户端能汉化，以及Telegram X Android 客户端也支持汉化，详情： [@zh_CN](https://t.me/zh_CN) 、 [@Tele_zh_CN](https://t.me/Tele_zh_CN)
-
-> **IOS 版本在更新到最新的5.0.8以后暂时全失效**
+> * Android 客户端支持汉化，详情： [@zh_CN](https://t.me/zh_CN) 、 [@Tele_zh_CN](https://t.me/Tele_zh_CN)
 
 > * 电脑端
 > * Telegram：Mac 上有两个官方客户端：Telegram、Telegram Desktop。**Telegram 不能汉化**；Telegram Desktop 能汉化，和Windows 客户端一致
 
-> * iOS 上Telegram X 和Telegram 最大的不同是用不同的开发语言写的：Telegram X 用的Swift，Telegram 用的Objective-C 写的；
+
+> *苹果手机telegram版本在 5.0.16 的可以用一下链接汉化 
+简体中文：[tg://setlanguage?lang=zh-hans-raw](tg://setlanguage?lang=zh-hans-raw)
+繁体中文：[tg://setlanguage?lang=zh-hant-raw](tg://setlanguage?lang=zh-hant-raw)
+直接点击链接，选“Change” 即可
+
+>>* iOS 上Telegram X 和Telegram 最大的不同是用不同的开发语言写的：Telegram X 用的Swift，Telegram 用的Objective-C 写的；
 Android 上Telegram X 和Telegram 最大的不同是不同开发者做的两个产品。
 
 ###                   telegram不能私聊问题

@@ -95,7 +95,7 @@ Android 上Telegram X 和Telegram 最大的不同是不同开发者做的两个�
 
 # 拍住赏问题
 ![拍住赏](https://user-images.githubusercontent.com/43647204/46255851-1a1d3500-c4d5-11e8-8b82-546f4f368cd9.jpeg)
-
+如果提示有错误 尝试名字用拼音 反正我是可以的~~
 # netflix小贴士
 
 因货币汇率问题 土耳其注册的netflix账户使用土耳其币结算 最好的套餐（4个荧幕+ultra4k)每个月39.99土耳其里拉 折合人民币 44.44 （2018年10月4日汇率）

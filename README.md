@@ -71,6 +71,7 @@ Android 上Telegram X 和Telegram 最大的不同是不同开发者做的两个�
 [视频链接](https://www.youtube.com/watch?v=JZNSj0loMUk)
 
 >>谷歌云不能播放netflix  vimeo 是正常的 因为netflix的原则是只允许家庭宽带使用 所以他们应该有黑名单
+>>但最佳谷歌云的一些IP已经被Netflix解封（2019.1.10测）
 
 
 #             梅林 科学上网插件 离线安装包

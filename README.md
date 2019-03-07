@@ -65,7 +65,7 @@ Windows 客户端同上
 
 ![谷歌流量价格](https://blog1.jyzzj.online/wp-content/uploads/2018/01/2018-01-27_121544.png)
 
->出些**内核卸载失败** 请确认你使用的系统是否是**debian8**（谷歌云目前已经没有debian8） 如果是**debian9** 请从[https://github.com/allenking1028/ss/issues/1](https://github.com/allenking1028/ss/issues/1 )我的这个代码页 第五步开始 （记得要先输入**sudo -i  使前面是root@xxxx** ）
+>出些**内核卸载失败** 是因为谷歌云目前已经没有debian8 能选择的只能是**debian9** 所以请从[https://github.com/allenking1028/ss/issues/1](https://github.com/allenking1028/ss/issues/1 )我的这个代码页 第五步开始 （记得要先输入**sudo -i  使前面是root@xxxx** ）
 或者看我的[新视频](https://www.youtube.com/watch?v=1jMgiqGpX-I)
 
 >>谷歌云到期以后 想要无缝继续使用 分一下几步

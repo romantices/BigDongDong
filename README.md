@@ -68,10 +68,6 @@ Windows 客户端同上
 >出些**内核卸载失败** 请确认你使用的系统是否是**debian8**（谷歌云目前已经没有debian8） 如果是**debian9** 请从[https://github.com/allenking1028/ss/issues/1](https://github.com/allenking1028/ss/issues/1 )我的这个代码页 第五步开始 （记得要先输入**sudo -i  使前面是root@xxxx** ）
 或者看我的[新视频](https://www.youtube.com/watch?v=1jMgiqGpX-I)
 
->关于谷歌云继续 撸300刀 的那期视频我设置里了未公开，因为争议蛮大，很多人觉得这样大肆宣传不妥我也觉得如此，不过这和怕谷歌发现或者youtube封了完全没关系，仅仅是我自己下架。但知道视频地址的依旧还可以看
-
-[视频链接](https://www.youtube.com/watch?v=JZNSj0loMUk)
-
 >>谷歌云到期以后 想要继续使用 分一下几步
 
 * 1：重新注册一个谷歌账户开通谷歌云 并且使用可被谷歌云支持的信用卡或者300赠金（如果收到邮件需要提交信用卡信息 如实提交就可以 很快会给你通过）

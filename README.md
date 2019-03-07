@@ -68,7 +68,7 @@ Windows 客户端同上
 >出些**内核卸载失败** 是因为谷歌云目前已经没有debian8 能选择的只能是**debian9** 所以请从[https://github.com/allenking1028/ss/issues/1](https://github.com/allenking1028/ss/issues/1 )我的这个代码页 第五步开始 （记得要先输入**sudo -i  使前面是root@xxxx** ）
 或者看我的[新视频](https://www.youtube.com/watch?v=1jMgiqGpX-I)
 
->>谷歌云到期以后 想要无缝继续使用 分一下几步
+>>谷歌云到期以后 想要无缝继续使用 分以下几步
 
 * 1：重新注册一个谷歌账户开通谷歌云 并且使用可被谷歌云支持的信用卡或者300赠金（如果收到邮件需要提交信用卡信息 如实提交就可以 很快会给你通过）
 * 2：进**新谷歌云账户** 先点击重命名结算账户 更改成比如 “new300” 这样便于以后区分

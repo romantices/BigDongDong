@@ -38,9 +38,9 @@ Windows 客户端同上
 
 * SHIELDTV  是androidTV系统youtube 可4k NETFLIX 可4K 可chromecast airplay 投屏
 * appletv4k  是TVOS系统  youtube 不可4k NETFLIX 可4K  可airplay投屏
-* MIBOX （MIBOXS)（又称国际版小米盒子）是androidTV系统 youtube 可4k NETFLIX 可4K可chromecast投屏 可airplay投屏
-* M8SPROL  是androidTV系统 youtube 可4k NETFLIX 不能4K 不可chromecast投屏（貌似）可airplay投屏
-* H96PRO+  是android定制系统 可刷androidTV系统 youtube 可4k netflix不能看 不可chromecast投屏 可airplay投屏
+* MIBOX （MIBOXS)（又称国际版小米盒子）是androidTV系统 youtube 可4k NETFLIX 可4K 可chromecast投屏 可airplay投屏
+* M8SPROL  是androidTV系统 youtube 可4k NETFLIX 不能看了（曾经可以） 不可chromecast投屏（貌似）可airplay投屏
+* H96PRO+  是android定制系统 可刷androidTV系统 youtube 可4k netflix 不能看 不可chromecast投屏 可airplay投屏
 * 小米盒子 Android系统 任何国内版本小米盒子刷成androidTV系统 youtube 不可4k NETFLIX 不能看 不可chromecast投屏 可airplay投屏
 
 >如果你是androidTV 系统 但发现安装的"腾讯云视听"等app 无法在主页显示和添加到主页 请再googleplay里面下载SideloadLauncher 这个软件 此软件是软件抽屉 可以置于主页点进去将显示所有APP程序

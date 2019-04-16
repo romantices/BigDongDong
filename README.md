@@ -122,6 +122,6 @@ Windows 客户端同上
 
 >> 国内TCP 红色X（或者国外也是）说明被BAN 如果都是X 请检查服务器端口是否开放以及服务器是否正常
 
-# 我所使用过的各种场子
+# 我所使用过的各种机场
 
 [https://bigdongdongclub.github.io/ssv2proxy/](https://bigdongdongclub.github.io/ssv2proxy/)

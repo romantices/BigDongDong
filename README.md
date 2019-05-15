@@ -4,7 +4,8 @@
 
 汉化基本点这个都OK [t.me/zh_cn](t.me/zh_cn)
 
-直接点击链接，选“Change” 即可
+或者在TG里面随便找个地方输入 @zh_cn 
+
 
 ###                   telegram不能私聊问题
 >是因为+86 注册的用户不能私聊非+86手机注册的用户（GOOGLE VOICE绑TG可解决）

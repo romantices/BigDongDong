@@ -2,31 +2,17 @@
 # telegram相关
 ###                     Telegram汉化方法 
 
-> * 电脑端
-
-
-> * Mac 上有两个官方客户端：Telegram 和 Telegram Desktop。**Telegram 不能汉化**；Telegram Desktop 能汉化，
-Windows 客户端同上
-
-> * 手机端 
-
-> * Android 客户端支持汉化
-> * iphone telegram版本在 5.0.16 以后的可以用以下链接汉化 
-
-中文：[https://t.me/setlanguage/classic-zh-cn](https://t.me/setlanguage/classic-zh-cn)
-
-简体中文：[tg://setlanguage?lang=zh-hans-raw](tg://setlanguage?lang=zh-hans-raw)
-
-繁体中文：[tg://setlanguage?lang=zh-hant-raw](tg://setlanguage?lang=zh-hant-raw)
+汉化基本点这个都OK [t.me/zh_cn](t.me/zh_cn)
 
 直接点击链接，选“Change” 即可
 
 ###                   telegram不能私聊问题
 >是因为+86 注册的用户不能私聊非+86手机注册的用户（GOOGLE VOICE绑TG可解决）
-需要GV号 然后绑定TG的可联系  [@CodyDoby](https://t.me/CodyDoby)  [@voice_google](https://t.me/voice_google)  
-也可以淘宝搜索貌似有卖
+淘宝搜索GV 貌似有卖
 
 ###                    telegram代理
+TG代理封堵太严重 暂时不提供了
+
 >TG代理：[https://bigdongdongclub.github.io/TelegramProxy/](https://bigdongdongclub.github.io/TelegramProxy/)
 
 点击上面链接内有TG代理  可以让TG在不用挂翻墙工具单独使用。
@@ -104,17 +90,17 @@ Windows 客户端同上
 >IOS 建议使用shadowrockt 和quantumult 但因为大陆商店统统下架 所以只能使用非大陆地区的AppleID再打开App Store才能找到这两个软件 而且这两个软件收费 但建议购买 如何充值非大陆地区AppleID 可以去我视频里找教程
 
 # 拍住赏问题
-拍住赏申请谷歌云已经被限制 如果单纯为了谷歌云去申请拍住赏已经没有意义 
-但拍住赏还是可以绑定如 港区APPLEID 等限制国内卡片支付的网站
+拍住赏申请谷歌云已经被风控 如果单纯为了谷歌云去申请拍住赏已经意义不大
+但拍住赏还是可以绑定如 港区苹果商店 等限制国内卡片支付的网站 购买国际阿里云等等
 
 # netflix小贴士
 
-因货币汇率问题 土耳其注册的netflix账户使用土耳其币结算 最好的套餐（4个荧幕+ultra4k)每个月39.99土耳其里拉 折合人民币 44.44 （2018年10月4日汇率）
-> 特提供土耳其节点供大家食用（别人分享的有效期未知）
+目前已知的最省钱看Netflix的方法是注册美国区ID然后使用美国区礼品卡充值 43.9RBM/月 （2019年5月15日汇率）
 
->> 请开启全局模式 然后去 [netflix.com](https://netflix.com) 注册新账户便是土耳其货币支付了 （可用外币信用卡和拍住赏付款）
+详见我的淘宝店：bigdongdong.taobao.com
 
-`ssr://MTg1LjIxOS4xMzQuMjI6ODA6YXV0aF9jaGFpbl9hOm5vbmU6cGxhaW46Y1hkbGNtZG9hblY1WVd0a1lYTmtaM1Y1WGpjeS8_cmVtYXJrcz01WnlmNklDejVZVzI`
+然后就是土耳其注册的netflix账户 每个月39.99土耳其里拉 折合人民币 45.3（2019年5月15日汇率）
+
 
 # 查询IP是否被BAN
 

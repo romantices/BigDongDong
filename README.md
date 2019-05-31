@@ -111,4 +111,4 @@ TG代理封堵太严重 暂时不提供了
 
 # 我所使用过的各种机场
 
-[https://bigdongdongclub.github.io/ssv2proxy/](https://bigdongdongclub.github.io/ssv2proxy/)
+[https://github.com/bigdongdongCLUB/ssv2proxy](https://github.com/bigdongdongCLUB/ssv2proxy)

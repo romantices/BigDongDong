@@ -102,10 +102,7 @@ https://github.com/bigdongdongCLUB/newGCP/issues/1
 
 目前已知的最省钱看Netflix的方法是注册美国区ID然后使用美国区礼品卡充值 43.9RBM/月 （2019年5月15日汇率）
 
-详见我的淘宝店：bigdongdong.taobao.com
-
-然后就是土耳其注册的netflix账户 每个月39.99土耳其里拉 折合人民币 45.3（2019年5月15日汇率）
-
+谷歌云目前可以看Netflix 但谷歌云无论开的是 台湾 还是香港 都是 属于美国 主要区别在于字幕 有一些片子没有中文字幕
 
 # 查询IP是否被BAN
 

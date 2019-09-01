@@ -79,7 +79,11 @@ https://github.com/bigdongdongCLUB/newGCP/issues/1
 #             梅林 科学上网插件 离线安装包
 >[https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm)
 
+>ac68u ac88u 等老款架构的点上面那个下载插件
+
 >[https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd)
+
+>AC86U AC5300 等新款架构的点上面那个下载插件
 
 # 科学上网 客户端下载
 

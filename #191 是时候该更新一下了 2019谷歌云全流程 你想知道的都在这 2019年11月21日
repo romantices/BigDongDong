@@ -2,22 +2,22 @@ BIGDONGDONG】#191 是时候该更新一下了 2019谷歌云全流程 你想知�
 2019年11月21日
 
 
-
-BIGDONGDONG
-10.3万 位订阅者
-因为字幕特效出了问题 所以重新传了一遍
 SSR图文教程
 https://github.com/bigdongdongCLUB/newGCP/issues/1
+
 V2RAY WS+TLS
 https://github.com/bigdongdongCLUB/newGCP/issues/2
+
 域名申请
 https://www.namecheap.com/
 https://www.freenom.com
 
-使用秋水的一件代码
+使用秋水的一键代码
 wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
 chmod +x shadowsocks-all.sh
 ./shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log
+
+
 
 
 首先确认命令符框最前面是不是root@xxxxx
@@ -27,7 +27,7 @@ chmod +x shadowsocks-all.sh
 
 yum -y install wget
 
-然后是这个
+然后是这个BBR加速
 
 wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
 
